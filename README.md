@@ -5,7 +5,7 @@
 首先下载源码
 
 ```shell
-git clone https://github.com/cucygh/es6-webpack.git
+git clone https://github.com/Shery-Lee/Es6.git
 ```
 
 然后安装
